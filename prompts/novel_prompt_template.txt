@@ -1,0 +1,17 @@
+Write a complete short novel based on the following elements.
+
+Genre: {{genre}}
+Main Character: {{main_character}}
+Setting: {{setting}}
+Tone: {{tone}} (e.g., emotional, funny, dark, etc.)
+
+The story should have a clear beginning, middle, and end.
+Please make it immersive and emotionally engaging, with natural dialogue and inner thoughts.
+
+Length: around 800 to 1,000 words.
+
+Title: Please start the story with a fitting title.
+
+---
+
+Start:
